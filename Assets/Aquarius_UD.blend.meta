@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 271fd48fafb25fc4b8397a8c5165d205
+timeCreated: 1517028259
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AO_dish_ud
+    100002: AO_other_ud
+    100004: //RootNode
+    100006: foil_gold
+    100008: foil_silver
+    100010: shiny_panel_left
+    100012: shiny_panel_right
+    100014: tex_01
+    100016: tex_02
+    100018: tex_black
+    400000: AO_dish_ud
+    400002: AO_other_ud
+    400004: //RootNode
+    400006: foil_gold
+    400008: foil_silver
+    400010: shiny_panel_left
+    400012: shiny_panel_right
+    400014: tex_01
+    400016: tex_02
+    400018: tex_black
+    2300000: AO_dish_ud
+    2300002: AO_other_ud
+    2300004: //RootNode
+    2300006: foil_gold
+    2300008: foil_silver
+    2300010: shiny_panel_left
+    2300012: shiny_panel_right
+    2300014: tex_01
+    2300016: tex_02
+    2300018: tex_black
+    3300000: AO_dish_ud
+    3300002: AO_other_ud
+    3300004: //RootNode
+    3300006: foil_gold
+    3300008: foil_silver
+    3300010: shiny_panel_left
+    3300012: shiny_panel_right
+    3300014: tex_01
+    3300016: tex_02
+    3300018: tex_black
+    4300000: _root
+    4300002: shiny_panel_left
+    4300004: shiny_panel_right
+    4300006: tex_02
+    4300008: AO_other_ud
+    4300010: tex_black
+    4300012: foil_gold
+    4300014: foil_silver
+    4300016: AO_dish_ud
+    4300018: tex_01
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
