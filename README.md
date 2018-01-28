@@ -1,5 +1,7 @@
 # Date: 28/01/2018
 # LEO: Low Earth Orbiting Satellites X Madness
+# Platforms used: Unity, Gimp, Blender
+# Open Source Assets
 Team Members (2): 
 	Elias Phiri (phirielias@gmail.com)
 	Daniel Bevington (tcraftdan@gmail.com)
