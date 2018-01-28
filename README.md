@@ -1,4 +1,8 @@
+Date: 28/01/2018
 LEO: Low Earth Orbiting Satellites X Madness
+Team Members (2): 
+	Elias Phiri (phirielias@gmail.com)
+	Daniel Bevington (tcraftdan@gmail.com)
 
 Objective: using a radio choose proper transmission bandwidth (color) to reach the satellite overhead that corresponds to the receiving bandwidth (color) of the antenna being revealed over the horizon.
 
